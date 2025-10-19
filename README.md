@@ -43,11 +43,9 @@ Here are some ideas to get you started:
 #### 🛍 [Shaba Commerce](https://shaba-commerce.vercel.app)
 Modern, high-performance eCommerce platform with SSR, caching, and secure authentication.
 
-#### 🏨 [The Wild Oasis](https://the-wild-oasis-website-flax-two.vercel.app)
+#### 🏨 [The Wild Oasis customer](https://the-wild-oasis-website-flax-two.vercel.app)
+#### 🏨 [The Wild Oasis admin](https://the-wild-oasis-back.vercel.app)
 Full-stack hotel management and booking system with role-based access and optimized UI/UX.
-
-#### 📸 [FidelStudio](https://photo-studio-taupe.vercel.app)
-Photo studio management platform for orders, deadlines, and payments with a responsive dashboard.
 
 #### 🛒 [Amazon Clone](https://amazone-frontend-deploy.vercel.app)
 Full-stack Amazon-inspired eCommerce app with Stripe payments and Firebase authentication.
