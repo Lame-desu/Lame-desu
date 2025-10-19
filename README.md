@@ -57,16 +57,6 @@ Full-stack Amazon-inspired eCommerce app with Stripe payments and Firebase authe
 ### 📊 GitHub Stats
 
 ![Lamesgin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lame-desu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lame-desu&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Lame-desu&theme=tokyonight&hide_border=true)
-
----
-
-### 🏆 Achievements
-
-🥉 **3rd Place – GDG Hackathon (ArifPay)** – Built a budget management system (Flutter + Next.js) in 30 hours.  
-🥉 **3rd Place – A2SV Intensive Camp** – Recognized for performance, consistency, and community engagement.
-
 ---
 
 ### ⚡ A Little About Me
